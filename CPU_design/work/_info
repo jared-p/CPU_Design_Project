@@ -1,0 +1,719 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vadder
+Z1 !s100 niliN2dB_<]0a2lTClaU;2
+Z2 I[_W?fzJa?CPMnlP^0n7R?0
+Z3 VRI63lWYXl2cnYA`b07OYi0
+Z4 dC:\Users\jared\OneDrive\468 Advanced Digital System Design\course project\final_design
+Z5 w1638301894
+Z6 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/adder.v
+Z7 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/adder.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/adder.v|
+Z10 o-work work -O0
+Z11 !s108 1638647433.317000
+Z12 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valu_control
+Z13 !s100 D0ZZP?Eo>N9?ZFM>=fRG52
+Z14 Iz8Ro<Tl5M2899Rio0jVjd0
+Z15 VmXHhW[1^<4YQA:J[[3TO^1
+R4
+Z16 w1638639703
+Z17 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_control.v
+Z18 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_control.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_control.v|
+R10
+Z20 !s108 1638647433.372000
+Z21 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valu_decoder_16out
+Z22 !s100 >4JZad:Y1PMXk2RgzG?JB2
+Z23 I;XO;P`E1b0GHgLlzDo4KY1
+Z24 VL_J]=1b^YeY?d2JN73[Dz3
+R4
+Z25 w1638639414
+Z26 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_decoder.v
+Z27 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_decoder.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_decoder.v|
+R10
+Z29 !s108 1638647433.425000
+Z30 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_decoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valu_decoder_4out
+Z31 !s100 @P]@9TJ0T63?G4NcYgB^E1
+Z32 IHk:Z5Zb;4E>o3PZ<5o@>Z3
+Z33 VN4Pm5F2[VIgENIJOClgH^2
+R4
+Z34 w1636602640
+Z35 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_decoder_rotate.v
+Z36 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_decoder_rotate.v
+L0 1
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_decoder_rotate.v|
+R10
+Z38 !s108 1638647433.474000
+Z39 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_decoder_rotate.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valu_mux_12_in_flag_value
+Z40 !s100 CA01TGXNT2IYgd3h1H=c^3
+Z41 I=^F1N@1eNM:OAb2GT>?5R1
+Z42 VCM;kE3Di@iEETGRDDn7801
+R4
+Z43 w1636739186
+Z44 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_mux_12in_flag_values.v
+Z45 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_mux_12in_flag_values.v
+L0 1
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_mux_12in_flag_values.v|
+R10
+Z47 !s108 1638647433.573000
+Z48 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_mux_12in_flag_values.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valu_mux_12_in_output_value
+Z49 !s100 ?H?ao]k=@lXm`jVXUk9Gi1
+Z50 I14KaN@PzOIWa`X:hkfj]R1
+Z51 VoTaT?kRGQ[B04DYWcHa=Q2
+R4
+Z52 w1636739182
+Z53 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_mux_12in_output_values.v
+Z54 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_mux_12in_output_values.v
+L0 1
+R8
+r1
+31
+Z55 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_mux_12in_output_values.v|
+R10
+Z56 !s108 1638647433.621000
+Z57 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_mux_12in_output_values.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valu_mux_4_in
+Z58 !s100 ]bS4ZSGP5:DZ=9=cFC:G]1
+Z59 I[f;2^^[5CP:_5N1Zm]lCl3
+Z60 Vf`_AHmI2i2HfmcnY>eK[a1
+R4
+Z61 w1638289331
+Z62 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_mux_4in.v
+Z63 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_mux_4in.v
+L0 1
+R8
+r1
+31
+Z64 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_mux_4in.v|
+R10
+Z65 !s108 1638647433.524000
+Z66 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_mux_4in.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vbit_and
+Z67 !s100 F:m;@5c4nzj]L_XcUnzPf2
+Z68 IM12W7aL:?>3ZUa:m?BM>X3
+Z69 Vcd[i99VE;Bi<MLVK9kO[^0
+R4
+Z70 w1636744198
+Z71 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/bitand.v
+Z72 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/bitand.v
+L0 1
+R8
+r1
+31
+Z73 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/bitand.v|
+R10
+Z74 !s108 1638647433.667000
+Z75 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/bitand.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vbit_or
+Z76 !s100 O:NUdMV^>QJ>CQJPWOG9>3
+Z77 IFX[a8f6n97>ESG^0L^UM?2
+Z78 V@>Chiei>Iz8`6kAeGio4c3
+R4
+Z79 w1636741848
+Z80 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/bitor.v
+Z81 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/bitor.v
+L0 1
+R8
+r1
+31
+Z82 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/bitor.v|
+R10
+Z83 !s108 1638647433.714000
+Z84 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/bitor.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vbit_xor
+Z85 !s100 o[`Z@4<NODLO_YHz:1:862
+Z86 Iez:XOA3mn6igAec<JGkRQ3
+Z87 V6P5o5NX;LK6UnQgECzJTP0
+R4
+Z88 w1636744232
+Z89 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/bitxor.v
+Z90 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/bitxor.v
+L0 1
+R8
+r1
+31
+Z91 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/bitxor.v|
+R10
+Z92 !s108 1638647433.761000
+Z93 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/bitxor.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcompare
+Z94 !s100 UT8m`Aj8g[SGOTUfeNTk51
+Z95 IZZ@>Y=GmGdXLP_5T0zF8H0
+Z96 VK4JjM3Nh4gIjdPQVUl^BP1
+R4
+Z97 w1638291748
+Z98 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/comparitor.v
+Z99 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/comparitor.v
+L0 1
+R8
+r1
+31
+Z100 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/comparitor.v|
+R10
+Z101 !s108 1638647433.809000
+Z102 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/comparitor.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfinal_design
+Z103 !s100 EXT6k]0f^BCC:6fbfXdfY2
+Z104 IzJ>deia2[KCMm@zMMZDRL1
+Z105 V@^kaAPlTT^m[KKP:=gFjD2
+R4
+Z106 w1638295396
+Z107 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/final_design.v
+Z108 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/final_design.v
+L0 1
+R8
+r1
+31
+Z109 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/final_design.v|
+R10
+Z110 !s108 1638647433.857000
+Z111 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/final_design.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfinal_design_test
+Z112 IzkHE22CJ>I6ZOKH<mQ8`82
+Z113 VUA5Bj>:3a>Chh2@0aNfdb0
+R4
+Z114 w1638647417
+Z115 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/final_design_testbench.v
+Z116 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/final_design_testbench.v
+L0 1
+R8
+r1
+31
+Z117 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/final_design_testbench.v|
+R10
+!i10b 1
+Z118 !s100 LFPHOCVEmEAAOiXjfQRJ42
+!s85 0
+Z119 !s108 1638647435.132000
+Z120 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/final_design_testbench.v|
+!s101 -O0
+vflags_enabler
+!i10b 1
+Z121 !s100 H<JL@GmlEmm@ME=gMRkTh2
+Z122 Ig>QdJFJ`QZBNc>b7_[BDe3
+Z123 VZA1enDO6@VBT@3mEF8gM<0
+R4
+Z124 w1638305638
+Z125 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/flags_enabler.v
+Z126 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/flags_enabler.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1638647435.178000
+!s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/flags_enabler.v|
+Z127 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/flags_enabler.v|
+!s101 -O0
+R10
+vimmediateMov
+Z128 !s100 mbjA2Sf3O17T[Ml:CaQUD2
+Z129 IBc1E=VQd`jCfR6:7Ag@J`0
+Z130 V]6FjG[l?XD1UEdYh:]Y:N0
+R4
+Z131 w1638289149
+Z132 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/immediateMov.v
+Z133 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/immediateMov.v
+L0 1
+R8
+r1
+31
+Z134 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/immediateMov.v|
+R10
+Z135 nimmediate@mov
+Z136 !s108 1638647433.906000
+Z137 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/immediateMov.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vleftShift_reg
+Z138 !s100 55M9<9RP<P>h84HRXaHGg3
+Z139 I1=GKemD<JeoGK1NG0g2Ab0
+Z140 VzP>1;c4EM`0V@:K^k:^581
+R4
+Z141 w1638235581
+Z142 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/shiftLeft.v
+Z143 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/shiftLeft.v
+L0 1
+R8
+r1
+31
+Z144 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/shiftLeft.v|
+R10
+Z145 nleft@shift_reg
+Z146 !s108 1638647434.851000
+Z147 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/shiftLeft.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmemory_control
+Z148 !s100 z<kSlLh463<UDBCB7BReg0
+Z149 Iz35N;0kKO6P9VlL^1CGER0
+Z150 V9QfG7O7lWa<c2`NV`lVaI0
+R4
+Z151 w1637436881
+Z152 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/memory_control.v
+Z153 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/memory_control.v
+L0 1
+R8
+r1
+31
+Z154 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/memory_control.v|
+R10
+Z155 !s108 1638647433.954000
+Z156 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/memory_control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmemory_control_with_RAM
+Z157 !s100 YGmOA4:k_iE3Y3IKNF@4]1
+Z158 I0:o0:BB<<[NI5Q;jajLAK0
+Z159 VFdWL5ofS4_4?Ez=JkDFfl2
+R4
+Z160 w1638311273
+Z161 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/memory_control_with_RAM.v
+Z162 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/memory_control_with_RAM.v
+L0 1
+R8
+r1
+31
+Z163 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/memory_control_with_RAM.v|
+R10
+Z164 nmemory_control_with_@r@a@m
+Z165 !s108 1638647434.053000
+Z166 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/memory_control_with_RAM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmemory_control_with_RAM_testbench
+Z167 !s100 BJIn@5G2n[I2iDGWC?U5=0
+Z168 IcdokU61ojCGhAZ8=lOKb?1
+Z169 VPRF@FnG>R9zfMeMWI2z[U3
+R4
+Z170 w1636598370
+Z171 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/memory_control_testbench.v
+Z172 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/memory_control_testbench.v
+L0 1
+R8
+r1
+31
+Z173 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/memory_control_testbench.v|
+R10
+Z174 nmemory_control_with_@r@a@m_testbench
+Z175 !s108 1638647434.003000
+Z176 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/memory_control_testbench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmov
+Z177 !s100 kzd5lD_iVX7h94Fh4Ui[h2
+Z178 IelkTD8X?cW0Zk0n8FNgPS1
+Z179 VXIMRcTXL@E>M6M><e]MjG0
+R4
+Z180 w1636743656
+Z181 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/mov.v
+Z182 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/mov.v
+L0 1
+R8
+r1
+31
+Z183 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/mov.v|
+R10
+Z184 !s108 1638647434.100000
+Z185 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/mov.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmultiplier
+Z186 !s100 gRVihf5m:e1@^B4jKL?WH0
+Z187 IMM_?`@L<JUDVJ2`n`C;CN3
+Z188 VMZ?NiT_I;KbE[62EID[ng2
+R4
+Z189 w1638302303
+Z190 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/multiplier.v
+Z191 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/multiplier.v
+L0 1
+R8
+r1
+31
+Z192 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/multiplier.v|
+R10
+Z193 !s108 1638647434.233000
+Z194 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/multiplier.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_2x1_16bit
+Z195 !s100 >W:UbHRQ]TUe0eGB6U2a41
+Z196 IDhUVYgPL6b646cBX5Hjf52
+Z197 V;eGRn1R3QmNiB:`[V`Ga22
+R4
+Z198 w1636598374
+Z199 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/mux_2x1_16bit.v
+Z200 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/mux_2x1_16bit.v
+L0 1
+R8
+r1
+31
+Z201 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/mux_2x1_16bit.v|
+R10
+Z202 !s108 1638647434.280000
+Z203 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/mux_2x1_16bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_2x1_32bit
+Z204 !s100 e4oL:;CEGLmEYEIkA6_lV1
+Z205 IOiUK[3WmXPKFejZOQ07UP2
+Z206 VZE@foiFozAB`_Z5hZ1AF32
+R4
+Z207 w1638310991
+Z208 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/mux_2x1_32bit.v
+Z209 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/mux_2x1_32bit.v
+L0 1
+R8
+r1
+31
+Z210 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/mux_2x1_32bit.v|
+R10
+Z211 !s108 1638647434.328000
+Z212 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/mux_2x1_32bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vn_decoder
+Z213 !s100 GgO2H?1IaUoPVFV3G3lX<3
+Z214 IMCXd_Z6?bYGZ36RGC>]V01
+Z215 V9i31a;QUkR:3Y=Na7iSfG2
+R4
+Z216 w1636598129
+Z217 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/n_decoder.v
+Z218 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/n_decoder.v
+L0 1
+R8
+r1
+31
+Z219 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/n_decoder.v|
+R10
+Z220 !s108 1638647434.377000
+Z221 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/n_decoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vn_mux
+Z222 !s100 TzPIcP>49FNL]_;9]5X3<1
+Z223 IJ8SWz[1D3f@N>ULLG^fKm1
+Z224 V>egAEN9^`S1c>C6>]`X590
+R4
+Z225 w1636598126
+Z226 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/n_mux.v
+Z227 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/n_mux.v
+L0 1
+R8
+r1
+31
+Z228 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/n_mux.v|
+R10
+Z229 !s108 1638647434.425000
+Z230 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/n_mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vprogramCounter
+Z231 !s100 06Q[Qnb>>YT6<S@T=RSV^3
+Z232 ISR>:E@_VDYEndg7Ha=3h<3
+Z233 VzgicbL2;YJiLBR?he`75c1
+R4
+Z234 w1636754592
+Z235 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/programCounter.v
+Z236 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/programCounter.v
+L0 1
+R8
+r1
+31
+Z237 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/programCounter.v|
+R10
+Z238 nprogram@counter
+Z239 !s108 1638647434.473000
+Z240 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/programCounter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRAM
+Z241 !s100 ^I_a@3CnVRbQlZPDEUn1D3
+Z242 IYc;WGjc<H[oKbOj_?RS1;0
+Z243 VGHGLTCLF>[AIj4_U7ocT10
+R4
+Z244 w1636598489
+Z245 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/ram.v
+Z246 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/ram.v
+L0 2
+R8
+r1
+31
+Z247 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/ram.v|
+R10
+Z248 n@r@a@m
+Z249 !s108 1638647434.541000
+Z250 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/ram.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vreg_bank
+Z251 !s100 7_BaE2icRBeb_Qj_?Cz:]2
+Z252 INI]WgEcRICUM`z?h4N=aH2
+Z253 VFTW7MQod2lH^mR3HL<4Hb0
+R4
+Z254 w1638311806
+Z255 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/reg_bank.v
+Z256 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/reg_bank.v
+L0 1
+R8
+r1
+31
+Z257 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/reg_bank.v|
+R10
+Z258 !s108 1638647434.588000
+Z259 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/reg_bank.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegistry_Bank_Full
+Z260 !s100 V0iJb?nzd>dY260ZkMR=V2
+Z261 I;JB8F>gYkWaI[5<hP[BMj2
+Z262 V6K7?OVJTA5<IQJBc_4Y]z3
+R4
+Z263 w1638639481
+Z264 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/registry_bank_full.v
+Z265 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/registry_bank_full.v
+L0 1
+R8
+r1
+31
+Z266 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/registry_bank_full.v|
+R10
+Z267 n@registry_@bank_@full
+Z268 !s108 1638647434.637000
+Z269 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/registry_bank_full.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vright_shift_reg
+Z270 !s100 jbSXQ^Gch1bCc4ZOm1H361
+Z271 I0kf=I60Ho8[A[g@7VA^<]0
+Z272 VBW=4_2@I?j[QFNG<RFBIJ0
+R4
+Z273 w1638235565
+Z274 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/shiftRight.v
+Z275 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/shiftRight.v
+L0 1
+R8
+r1
+31
+Z276 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/shiftRight.v|
+R10
+Z277 !s108 1638647434.897000
+Z278 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/shiftRight.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vrotRight
+Z279 !s100 2]52lo4LJT?>PFJL656nd0
+Z280 I@2E>0I@klWICR]VfACnlb0
+Z281 VdL8>TiQhd<UKQ6mAOAE1Q3
+R4
+Z282 w1637698756
+Z283 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/rotRight.v
+Z284 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/rotRight.v
+L0 1
+R8
+r1
+31
+Z285 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/rotRight.v|
+R10
+Z286 nrot@right
+Z287 !s108 1638647434.758000
+Z288 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/rotRight.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsetFlag
+Z289 !s100 :_KWgFJmV7:A7A:UB2bO;3
+Z290 IXI20zVSmH?XXKanWNVR2X3
+Z291 V@j0A3BB6oaXS>JCIE1?C51
+R4
+Z292 w1638306717
+Z293 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/setFlags.v
+Z294 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/setFlags.v
+L0 1
+R8
+r1
+31
+Z295 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/setFlags.v|
+R10
+Z296 nset@flag
+Z297 !s108 1638647434.805000
+Z298 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/setFlags.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsubtractor
+Z299 !s100 IzdF?d1jSGfm66^1]@?=l1
+Z300 I8mEIEH[@[Hfk9W2dblD@^1
+Z301 V6L>gQ=SR@9@K:7BHi:2P70
+R4
+Z302 w1638302313
+Z303 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/subtractor.v
+Z304 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/subtractor.v
+L0 1
+R8
+r1
+31
+Z305 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/subtractor.v|
+R10
+Z306 !s108 1638647434.944000
+Z307 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/subtractor.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTest_ALU
+Z308 !s100 n3P6_P8meFeJF_k_gbl:a0
+Z309 Imm95IL<7iMe?J9SM1c[;@0
+Z310 VoOPR?jlf:aIz>B5]FD[`<0
+R4
+Z311 w1636754854
+Z312 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/Test_bench_alu.v
+Z313 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/Test_bench_alu.v
+L0 1
+R8
+r1
+31
+Z314 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/Test_bench_alu.v|
+R10
+Z315 n@test_@a@l@u
+Z316 !s108 1638647434.991000
+Z317 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/Test_bench_alu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtest_memory
+Z318 !s100 Dc3k<8N2jHUCgTQ9`EGLk0
+Z319 Io0_B3oXd7WEJ`B[deiLTm1
+Z320 Vmd11?Uh]dk^P<b3MKWGBI1
+R4
+Z321 w1636600194
+Z322 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/test_RAM_write.v
+Z323 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/test_RAM_write.v
+L0 1
+R8
+r1
+31
+Z324 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/test_RAM_write.v|
+R10
+Z325 !s108 1638647435.086000
+Z326 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/test_RAM_write.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtest_memory_read
+Z327 !s100 2`8P9lHRQ=Y9QdIHZ7ZWP2
+Z328 I0dEB3Ma_a@CgYYj_4K`o?3
+Z329 V1c1L6d<5Tch<kn>Ha:>^_2
+R4
+Z330 w1636600191
+Z331 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/test_RAM_read.v
+Z332 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/test_RAM_read.v
+L0 2
+R8
+r1
+31
+Z333 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/test_RAM_read.v|
+R10
+Z334 !s108 1638647435.041000
+Z335 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/test_RAM_read.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTest_Registry_Bank
+Z336 !s100 WJj>GjiTDA61LjPA4fo[G1
+Z337 IZ7`5RnG`?5IM<ScJfP2R`1
+Z338 VeM;ZC<iGRg]0=E4EEi7g10
+R4
+Z339 w1636598115
+Z340 8C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/registry_bank_full_testbench.v
+Z341 FC:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/registry_bank_full_testbench.v
+L0 1
+R8
+r1
+31
+Z342 !s90 -reportprogress|300|-work|work|C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/registry_bank_full_testbench.v|
+R10
+Z343 n@test_@registry_@bank
+Z344 !s108 1638647434.710000
+Z345 !s107 C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/registry_bank_full_testbench.v|
+!i10b 1
+!s85 0
+!s101 -O0

@@ -1,0 +1,11 @@
+// memory data file (do not edit the following line - required for mem load use)
+// instance=/test_memory/ram/Mem
+// format=hex addressradix=h dataradix=h version=1.0 wordsperline=1 noaddress
+aaaaaaaa
+00aaaaaa
+00bbaaaa
+00ccaaaa
+00ddaaaa
+00eeaaaa
+00ffaaaa
+ffffaaaa

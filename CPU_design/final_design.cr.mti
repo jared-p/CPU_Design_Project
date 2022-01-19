@@ -1,0 +1,262 @@
+{C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/final_design_testbench.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/final_design_testbench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module final_design_test
+
+Top level modules:
+	final_design_test
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/test_RAM_read.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/test_RAM_read.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test_memory_read
+
+Top level modules:
+	test_memory_read
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/bitand.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/bitand.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module bit_and
+
+Top level modules:
+	bit_and
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/final_design.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/final_design.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module final_design
+
+Top level modules:
+	final_design
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/n_decoder.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/n_decoder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module n_decoder
+
+Top level modules:
+	n_decoder
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_mux_12in_output_values.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_mux_12in_output_values.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu_mux_12_in_output_value
+
+Top level modules:
+	alu_mux_12_in_output_value
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/shiftRight.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/shiftRight.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module right_shift_reg
+
+Top level modules:
+	right_shift_reg
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_mux_4in.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_mux_4in.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu_mux_4_in
+
+Top level modules:
+	alu_mux_4_in
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_decoder.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_decoder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu_decoder_16out
+
+Top level modules:
+	alu_decoder_16out
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/mux_2x1_32bit.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/mux_2x1_32bit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux_2x1_32bit
+
+Top level modules:
+	mux_2x1_32bit
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/n_mux.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/n_mux.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module n_mux
+
+Top level modules:
+	n_mux
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/adder.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/adder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/comparitor.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/comparitor.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module compare
+
+Top level modules:
+	compare
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/programCounter.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/programCounter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module programCounter
+
+Top level modules:
+	programCounter
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/Test_bench_alu.v} {2 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/Test_bench_alu.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Test_ALU
+** Warning: C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/Test_bench_alu.v(18): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	Test_ALU
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/ram.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/ram.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/setFlags.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/setFlags.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module setFlag
+
+Top level modules:
+	setFlag
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/immediateMov.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/immediateMov.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module immediateMov
+
+Top level modules:
+	immediateMov
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/mux_2x1_16bit.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/mux_2x1_16bit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux_2x1_16bit
+
+Top level modules:
+	mux_2x1_16bit
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/test_RAM_write.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/test_RAM_write.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test_memory
+
+Top level modules:
+	test_memory
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/shiftLeft.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/shiftLeft.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module leftShift_reg
+
+Top level modules:
+	leftShift_reg
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_control.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_control.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu_control
+
+Top level modules:
+	alu_control
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/mov.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/mov.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mov
+
+Top level modules:
+	mov
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/rotRight.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/rotRight.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module rotRight
+
+Top level modules:
+	rotRight
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/memory_control_with_RAM.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/memory_control_with_RAM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module memory_control_with_RAM
+
+Top level modules:
+	memory_control_with_RAM
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_mux_12in_flag_values.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_mux_12in_flag_values.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu_mux_12_in_flag_value
+
+Top level modules:
+	alu_mux_12_in_flag_value
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/flags_enabler.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/flags_enabler.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module flags_enabler
+
+Top level modules:
+	flags_enabler
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_decoder_rotate.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/alu_decoder_rotate.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu_decoder_4out
+
+Top level modules:
+	alu_decoder_4out
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/registry_bank_full_testbench.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/registry_bank_full_testbench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Test_Registry_Bank
+
+Top level modules:
+	Test_Registry_Bank
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/registry_bank_full.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/registry_bank_full.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Registry_Bank_Full
+
+Top level modules:
+	Registry_Bank_Full
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/multiplier.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/multiplier.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/bitxor.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/bitxor.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module bit_xor
+
+Top level modules:
+	bit_xor
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/bitor.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/bitor.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module bit_or
+
+Top level modules:
+	bit_or
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/memory_control_testbench.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/memory_control_testbench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module memory_control_with_RAM_testbench
+
+Top level modules:
+	memory_control_with_RAM_testbench
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/subtractor.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/subtractor.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module subtractor
+
+Top level modules:
+	subtractor
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/memory_control.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/memory_control.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module memory_control
+
+Top level modules:
+	memory_control
+
+} {} {}} {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/reg_bank.v} {1 {vlog -work work {C:/Users/jared/OneDrive/468 Advanced Digital System Design/course project/final_design/reg_bank.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module reg_bank
+
+Top level modules:
+	reg_bank
+
+} {} {}}
